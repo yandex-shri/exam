@@ -26,7 +26,7 @@ exam
 1. Мадаминов Сергей
 1. Паршин Станислав
 1. Шишкин Максим
-1. [Поляков Дмитрий](https://github.com/dpolyakov/shri-calendar)
+1. Поляков Дмитрий - https://github.com/dpolyakov/shri-calendar
 1. Павлов Дмитрий
 1. Воробьев Никита
 1. Антипин Александр
