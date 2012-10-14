@@ -25,7 +25,7 @@
 1. Шишкин Юрий
 1. Мадаминов Сергей
 1. Паршин Станислав - https://github.com/pengrad/ya-exam
-1. Шишкин Максим
+1. Шишкин Максим - https://github.com/MaxShishkin/shri-lectures
 1. Поляков Дмитрий - https://github.com/dpolyakov/shri-calendar
 1. Павлов Дмитрий
 1. Воробьев Никита - https://github.com/vora-bei/ekz.git
