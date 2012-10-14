@@ -18,7 +18,7 @@
 1. Лукьянчук Светлана - https://github.com/svetkinz/timetable
 1. Болтнев Дмитрий - https://github.com/render1980/yandex-shri-qualifying-work
 1. Шорников Иван - https://github.com/paraboom/timetable
-1. Северьянова Марина
+1. Северьянова Марина - https://github.com/servala/Dz-lecture-shri ), тут можно посмотреть - http://servala.github.com/My_rep/index.html
 1. Королев Александр
 1. Тымченко Вадим
 1. Петров Дмитрий
