@@ -15,7 +15,7 @@
 1. Ильинский Дмитрий - https://github.com/demxa/yandex-ekz
 1. Липина Алла
 1. Островский Анатолий
-1. Лукьянчук Светлана - https://github.com/svetkinz/timetable
+1. Лукьянчук Светлана - https://github.com/svetkinz/timetable-backbone
 1. Болтнев Дмитрий - https://github.com/render1980/yandex-shri-qualifying-work
 1. Шорников Иван - https://github.com/paraboom/timetable
 1. Северьянова Марина - https://github.com/servala/Dz-lecture-shri ), тут можно посмотреть - http://servala.github.com/My_rep/index.html
