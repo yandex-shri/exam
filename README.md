@@ -15,7 +15,7 @@
 1. Ильинский Дмитрий - https://github.com/demxa/yandex-ekz
 1. Липина Алла
 1. Островский Анатолий
-1. Лукьянчук Светлана -https://github.com/svetkinz/timetable
+1. Лукьянчук Светлана - https://github.com/svetkinz/timetable
 1. Болтнев Дмитрий - https://github.com/render1980/yandex-shri-qualifying-work
 1. Шорников Иван - https://github.com/paraboom/timetable
 1. Северьянова Марина
@@ -24,7 +24,7 @@
 1. Петров Дмитрий
 1. Шишкин Юрий
 1. Мадаминов Сергей
-1. Паршин Станислав https://github.com/pengrad/ya-exam
+1. Паршин Станислав - https://github.com/pengrad/ya-exam
 1. Шишкин Максим
 1. Поляков Дмитрий - https://github.com/dpolyakov/shri-calendar
 1. Павлов Дмитрий
