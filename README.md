@@ -17,7 +17,7 @@ exam
 1. Островский Анатолий
 1. Лукьянчук Светлана -https://github.com/svetkinz/timetable
 1. Болтнев Дмитрий - https://github.com/render1980/yandex-shri-qualifying-work
-1. Шорников Иван
+1. Шорников Иван - https://github.com/paraboom/timetable
 1. Северьянова Марина
 1. Королев Александр
 1. Тымченко Вадим
