@@ -30,7 +30,7 @@
 1. Павлов Дмитрий
 1. Воробьев Никита - https://github.com/vora-bei/ekz.git
 1. Антипин Александр
-1. Шум Константин
+1. Шум Константин - https://github.com/k-shym/shri
 1. Сагитов Руслан - http://github.com/ruslansagitov/shri
 1. Канатников Дмитрий - https://github.com/rifler/yandex-exam
 1. Блинов Егор - https://github.com/escaton/Shri-exam
