@@ -9,7 +9,7 @@
 1. Рудешко Антон - https://github.com/anton-rudeshko/shri-2
 1. Амосов Александр - https://github.com/s9k/yaexam
 1. Потехин Кирилл
-1. Уруков Андрей
+1. Уруков Андрей - https://github.com/a-urukov/shri-exam
 1. Мудрук Борис
 1. Чекина Татьяна
 1. Ильинский Дмитрий - https://github.com/demxa/yandex-ekz
