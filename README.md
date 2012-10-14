@@ -15,7 +15,7 @@ exam
 1. Ильинский Дмитрий
 1. Липина Алла
 1. Островский Анатолий
-1. Лукьянчук Светлана
+1. Лукьянчук Светлана -https://github.com/svetkinz/timetable
 1. Болтнев Дмитрий - https://github.com/render1980/yandex-shri-qualifying-work
 1. Шорников Иван
 1. Северьянова Марина
