@@ -13,7 +13,7 @@
 1. Мудрук Борис
 1. Чекина Татьяна
 1. Ильинский Дмитрий - https://github.com/demxa/yandex-ekz
-1. Липина Алла
+1. Липина Алла - https://github.com/lipina/exam_shri
 1. Островский Анатолий
 1. Лукьянчук Светлана - https://github.com/svetkinz/timetable
 1. Болтнев Дмитрий - https://github.com/render1980/yandex-shri-qualifying-work
