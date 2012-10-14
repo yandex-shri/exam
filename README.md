@@ -11,7 +11,7 @@
 1. Потехин Кирилл
 1. Уруков Андрей - https://github.com/a-urukov/shri-exam
 1. Мудрук Борис
-1. Чекина Татьяна
+1. Чекина Татьяна - https://github.com/WhiteTea/shri-exam.git
 1. Ильинский Дмитрий - https://github.com/demxa/yandex-ekz
 1. Липина Алла
 1. Островский Анатолий
