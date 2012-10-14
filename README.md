@@ -32,7 +32,7 @@
 1. Антипин Александр
 1. Шум Константин
 1. Сагитов Руслан - http://github.com/ruslansagitov/shri
-1. Канатников Дмитрий
+1. Канатников Дмитрий - https://github.com/rifler/yandex-exam
 1. Блинов Егор - https://github.com/escaton/Shri-exam
 1. Калмаков Алексей
 1. Тюрин Артём
