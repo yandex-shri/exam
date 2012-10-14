@@ -42,7 +42,7 @@
 1. Крайнов Михаил
 1. Чупейкин Андрей
 1. Хананеин Денис — https://github.com/zloylos/shri-exam.git
-1. Васин Валерий
+1. Васин Валерий - https://github.com/InviZibl3/shri-exam.git
 1. Кислов Максим — https://github.com/kislovm/shriCalendar
 1. Рукин Филипп
 1. Шадмонкулов Шухрат - https://github.com/Shuhrat/Tumaris
