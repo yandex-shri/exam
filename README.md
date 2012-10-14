@@ -21,7 +21,7 @@
 1. Северьянова Марина - https://github.com/servala/Dz-lecture-shri ), тут можно посмотреть - http://servala.github.com/My_rep/index.html
 1. Королев Александр
 1. Тымченко Вадим
-1. Петров Дмитрий
+1. Петров Дмитрий - https://github.com/corpix/shri-exam
 1. Шишкин Юрий
 1. Мадаминов Сергей
 1. Паршин Станислав - https://github.com/pengrad/ya-exam
