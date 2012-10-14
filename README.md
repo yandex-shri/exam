@@ -36,7 +36,7 @@
 1. Блинов Егор - https://github.com/escaton/Shri-exam
 1. Калмаков Алексей
 1. Тюрин Артём
-1. Копцов Александр
+1. Копцов Александр - git://github.com/akoptsov/curriculum.git , [оно же в боевом режиме](http://akoptsov.github.com/curriculum/)
 1. Заика Андрей
 1. Ремнев Юрий
 1. Крайнов Михаил
