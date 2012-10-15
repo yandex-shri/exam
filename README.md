@@ -36,10 +36,10 @@
 1. Блинов Егор - https://github.com/escaton/Shri-exam
 1. Калмаков Алексей - https://github.com/rndD/ya-exam
 1. Тюрин Артём - https://github.com/agentcooper/shri-final
-1. Копцов Александр - git://github.com/akoptsov/curriculum.git , [оно же в боевом режиме](http://akoptsov.github.com/curriculum/)
+1. Копцов Александр - https://github.com/akoptsov/curriculum.git , [оно же в боевом режиме](http://akoptsov.github.com/curriculum/)
 1. Заика Андрей - https://github.com/anzaika/shri-exam-anzaika
 1. Ремнев Юрий — https://github.com/remnev/shri-exam
-1. Крайнов Михаил - git://github.com/mkrainov/yandex.shri.exam.git
+1. Крайнов Михаил - https://github.com/mkrainov/yandex.shri.exam.git
 1. Чупейкин Андрей
 1. Хананеин Денис — https://github.com/zloylos/shri-exam.git
 1. Васин Валерий - https://github.com/InviZibl3/shri-exam.git
