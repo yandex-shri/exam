@@ -19,7 +19,7 @@
 1. Болтнев Дмитрий - https://github.com/render1980/yandex-shri-qualifying-work
 1. Шорников Иван - https://github.com/paraboom/timetable
 1. Северьянова Марина - https://github.com/servala/Dz-lecture-shri ), тут можно посмотреть - http://servala.github.com/My_rep/index.html
-1. Королев Александр - https://github.com/rockad/yandexHCI/tree/exam
+1. Королев Александр - https://github.com/rockad/yandexHCI/tree/exam | http://rockad.github.com/yandexHCI/exam/interface/
 1. Тымченко Вадим - https://github.com/devstep/Examination.git
 1. Петров Дмитрий - https://github.com/corpix/shri-exam
 1. Шишкин Юрий - https://github.com/tttptd/schedule
