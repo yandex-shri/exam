@@ -35,7 +35,7 @@
 1. Канатников Дмитрий - https://github.com/rifler/yandex-exam
 1. Блинов Егор - https://github.com/escaton/Shri-exam
 1. Калмаков Алексей
-1. Тюрин Артём
+1. Тюрин Артём - https://github.com/agentcooper/shri-final
 1. Копцов Александр - git://github.com/akoptsov/curriculum.git , [оно же в боевом режиме](http://akoptsov.github.com/curriculum/)
 1. Заика Андрей - https://github.com/anzaika/shri-exam-anzaika
 1. Ремнев Юрий
