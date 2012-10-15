@@ -14,7 +14,7 @@
 1. Чекина Татьяна - https://github.com/WhiteTea/shri-exam.git
 1. Ильинский Дмитрий - https://github.com/demxa/yandex-ekz
 1. Липина Алла
-1. Островский Анатолий
+1. Островский Анатолий - https://github.com/ostrovsky/shri-explorer
 1. Лукьянчук Светлана - https://github.com/svetkinz/timetable-backbone
 1. Болтнев Дмитрий - https://github.com/render1980/yandex-shri-qualifying-work
 1. Шорников Иван - https://github.com/paraboom/timetable
