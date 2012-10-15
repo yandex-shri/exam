@@ -20,7 +20,7 @@
 1. Шорников Иван - https://github.com/paraboom/timetable
 1. Северьянова Марина - https://github.com/servala/Dz-lecture-shri ), тут можно посмотреть - http://servala.github.com/My_rep/index.html
 1. Королев Александр
-1. Тымченко Вадим
+1. Тымченко Вадим - https://github.com/devstep/Examination.git
 1. Петров Дмитрий
 1. Шишкин Юрий
 1. Мадаминов Сергей
