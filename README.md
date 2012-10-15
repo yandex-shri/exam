@@ -39,7 +39,7 @@
 1. Копцов Александр - git://github.com/akoptsov/curriculum.git , [оно же в боевом режиме](http://akoptsov.github.com/curriculum/)
 1. Заика Андрей
 1. Ремнев Юрий
-1. Крайнов Михаил
+1. Крайнов Михаил - git://github.com/mkrainov/yandex.shri.exam.git
 1. Чупейкин Андрей
 1. Хананеин Денис — https://github.com/zloylos/shri-exam.git
 1. Васин Валерий
