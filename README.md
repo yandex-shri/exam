@@ -22,7 +22,7 @@
 1. Королев Александр - https://github.com/rockad/yandexHCI/tree/exam
 1. Тымченко Вадим - https://github.com/devstep/Examination.git
 1. Петров Дмитрий - https://github.com/corpix/shri-exam
-1. Шишкин Юрий
+1. Шишкин Юрий - https://github.com/tttptd/schedule
 1. Мадаминов Сергей
 1. Паршин Станислав - https://github.com/pengrad/ya-exam
 1. Шишкин Максим - https://github.com/MaxShishkin/shri-lectures
