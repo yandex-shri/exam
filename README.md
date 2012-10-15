@@ -23,7 +23,7 @@
 1. Тымченко Вадим - https://github.com/devstep/Examination.git
 1. Петров Дмитрий - https://github.com/corpix/shri-exam
 1. Шишкин Юрий - https://github.com/tttptd/schedule
-1. Мадаминов Сергей
+1. Мадаминов Сергей - https://github.com/abnicken/Yandex_exam
 1. Паршин Станислав - https://github.com/pengrad/ya-exam
 1. Шишкин Максим - https://github.com/MaxShishkin/shri-lectures
 1. Поляков Дмитрий - https://github.com/dpolyakov/shri-calendar
