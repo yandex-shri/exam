@@ -34,7 +34,8 @@ exam
 1. Сагитов Руслан
 1. Канатников Дмитрий
 1. Блинов Егор
-1. Калмаков Алексей - https://github.com/rndD/ya-exam
+1. Калмаков Алексей - https://github.com/rndD/ya-exam на pages
+   http://rndd.github.com/ya-exam/
 1. Тюрин Артём
 1. Копцов Александр
 1. Заика Андрей
