@@ -16,7 +16,7 @@ exam
 1. Липина Алла
 1. Островский Анатолий
 1. Лукьянчук Светлана
-1. Болтнев Дмитрий - https://github.com/render1980/yandex-shri-qualifying-work
+1. Болтнев Дмитрий - https://github.com/render1980/yandex-shri-qualifying-work | http://render1980.github.com/yandex-shri-qualifying-work/old-school
 1. Шорников Иван
 1. Северьянова Марина
 1. Королев Александр
