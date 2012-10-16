@@ -40,7 +40,7 @@
 1. Заика Андрей - https://github.com/anzaika/shri-exam-anzaika
 1. Ремнев Юрий — https://github.com/remnev/shri-exam
 1. Крайнов Михаил - https://github.com/mkrainov/yandex.shri.exam.git
-1. Чупейкин Андрей
+1. Чупейкин Андрей — https://github.com/andychups/Exam || http://andychups.ru/public/Yandex-Exam/
 1. Хананеин Денис — https://github.com/zloylos/shri-exam.git
 1. Васин Валерий - https://github.com/InviZibl3/shri-exam.git
 1. Кислов Максим — https://github.com/kislovm/shriCalendar
