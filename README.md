@@ -16,7 +16,7 @@
 1. Липина Алла - https://github.com/lipina/exam_shri
 1. Островский Анатолий - https://github.com/ostrovsky/shri-explorer
 1. Лукьянчук Светлана - https://github.com/svetkinz/timetable-backbone
-1. Болтнев Дмитрий - https://github.com/render1980/yandex-shri-qualifying-work
+1. Болтнев Дмитрий - https://github.com/render1980/yandex-shri-qualifying-work | http://render1980.github.com/yandex-shri-qualifying-work/old-school
 1. Шорников Иван - https://github.com/paraboom/timetable
 1. Северьянова Марина - https://github.com/servala/Dz-lecture-shri ), тут можно посмотреть - http://servala.github.com/My_rep/index.html
 1. Королев Александр - https://github.com/rockad/yandexHCI/tree/exam | http://rockad.github.com/yandexHCI/exam/interface/
